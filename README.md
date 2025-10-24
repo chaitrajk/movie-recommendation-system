@@ -24,7 +24,7 @@ pip install -r requirements.txt
 Usage:
 
 streamlit run app.py
-# Visit localhost:8501 in browser
+
 
 
 Future Work:
